@@ -1,5 +1,5 @@
 # Garage-Band
-A memory game created as part of the Web Development Bootcamp
+A virtual Drum set created as part of the Web Development Bootcamp to play drums using key strokes.
 
 URL : https://spacepatroldev.github.io/Garage-Band/
 
